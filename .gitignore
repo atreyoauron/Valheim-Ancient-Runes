@@ -1,0 +1,7 @@
+game/
+saves/
+logs/
+**/bin/
+**/obj/
+.dotnet/
+*.user
